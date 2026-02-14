@@ -4,23 +4,23 @@
     "description": "生活氣象 看懂天氣",
     "url": "../weather/",
     "icon": "../weather/assets/weather_icon_512.png",
-    "introductionUrl": "./weather/weather.md"
+    "introductionUrl": "apps/weather/weather.md"
   },
   {
     "name": "Monopoly Wallet",
     "description": "地產大亨數位錢包",
     "url": "..MonopolyWallet/",
     "icon": "../MonopolyWallet/assets/wallet_icon_512.png",
-    "introductionUrl": "./wallet/wallet.md",
-    "screenshots": ["./wallet/wallet_screenshot1.jpg","./wallet/wallet_screenshot2.jpg"]
+    "introductionUrl": "apps/wallet/wallet.md",
+    "screenshots": ["apps/wallet/wallet_screenshot1.jpg","apps/wallet/wallet_screenshot2.jpg"]
   },
   {
     "name": "TWD Converter",
     "description": "新台幣匯率換算器",
     "url": "../TWDc/",
     "icon": "../TWDc/assets/icon_512.png",
-    "introductionUrl": "./twdc/twdc.md",
-    "screenshots": ["./twdc/twdc_screenshot1.jpg","./twdc/twdc_screenshot2.jpg","./twdc/twdc_screenshot3.jpg"]
+    "introductionUrl": "apps/twdc/twdc.md",
+    "screenshots": ["apps/twdc/twdc_screenshot1.jpg","apps/twdc/twdc_screenshot2.jpg","apps/twdc/twdc_screenshot3.jpg"]
   },
   {
     "name": "Imperial Search",
