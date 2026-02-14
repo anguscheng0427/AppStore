@@ -3,24 +3,24 @@
     "name": "Angus Weather",
     "description": "生活氣象 看懂天氣",
     "url": "../weather/",
-    "icon": "../weather/assets/weather_icon_512.png",
-    "introductionUrl": "./apps/weather.md"
+    "icon": "weather/assets/weather_icon_512.png",
+    "introductionUrl": "./weather.md"
   },
   {
     "name": "Monopoly Wallet",
     "description": "地產大亨數位錢包",
-    "url": "../MonopolyWallet/",
+    "url": "..MonopolyWallet/",
     "icon": "../MonopolyWallet/assets/wallet_icon_512.png",
-    "introductionUrl": "./apps/wallet.md",
-    "screenshots": ["./apps/wallet_screenshot1.jpg","./apps/wallet_screenshot2.jpg"]
+    "introductionUrl": "./wallet.md",
+    "screenshots": ["wallet/wallet_screenshot1.jpg","wallet/wallet_screenshot2.jpg"]
   },
   {
     "name": "TWD Converter",
     "description": "新台幣匯率換算器",
     "url": "../TWDc/",
     "icon": "../TWDc/assets/icon_512.png",
-    "introductionUrl": "./apps/twdc.md",
-    "screenshots": ["./apps/twdc_screenshot1.jpg","./apps/twdc_screenshot2.jpg","./apps/twdc_screenshot3.jpg"]
+    "introductionUrl": "twdc/twdc.md",
+    "screenshots": ["twdc/twdc_screenshot1.jpg","twdc/twdc_screenshot2.jpg","twdc/twdc_screenshot3.jpg"]
   },
   {
     "name": "Imperial Search",
