@@ -9,7 +9,7 @@
   {
     "name": "Monopoly Wallet",
     "description": "地產大亨數位錢包",
-    "url": "..MonopolyWallet/",
+    "url": "../MonopolyWallet/",
     "icon": "../MonopolyWallet/assets/wallet_icon_512.png",
     "introductionUrl": "apps/wallet/wallet.md",
     "screenshots": ["apps/wallet/wallet_screenshot1.jpg","apps/wallet/wallet_screenshot2.jpg"]
