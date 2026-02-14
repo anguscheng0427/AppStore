@@ -1,0 +1,30 @@
+[
+
+  {
+    "name": "Angus Weather",
+    "url": "../weather/",
+    "icon": "../weather/assets/weather_icon_512.png",
+    "description": "生活氣象 看懂天氣"
+  },
+  {
+    "name": "Monopoly Wallet",
+    "url": "../MonopolyWallet/",
+    "icon": "../MonopolyWallet/assets/wallet_icon_512.png",
+    "description": "地產大亨數位錢包",
+    "introductionUrl": "./apps/wallet.md",
+    "screenshots": ["./apps/wallet_screenshot1.jpg","./apps/wallet_screenshot2.jpg"]
+  },
+  {
+    "name": "TWD Converter",
+    "url": "../TWDc/",
+    "icon": "../TWDc/assets/icon_512.png",
+    "description": "新台幣匯率換算器"
+  },
+  {
+    "name": "Imperial Search",
+    "url": "../president/search",
+    "icon": "../president/assets/app_icon_512.png",
+    "description": "大明帝國 搜尋入口",
+    "screenshots": ["../president/assets/og_image_search.png","../president/assets/president.jpg"]
+  }
+]
