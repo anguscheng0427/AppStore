@@ -4,7 +4,8 @@
     "description": "生活氣象 看懂天氣",
     "url": "../weather/",
     "icon": "../weather/assets/weather_icon_512.png",
-    "introductionUrl": "apps/weather/weather.md"
+    "introductionUrl": "apps/weather/weather.md",
+    "screenshots": ["apps/weather/weather_screenshot1.jpg","apps/weather/weather_screenshot2.jpg"]
   },
   {
     "name": "Monopoly Wallet",
@@ -20,7 +21,7 @@
     "url": "../TWDc/",
     "icon": "../TWDc/assets/icon_512.png",
     "introductionUrl": "apps/twdc/twdc.md",
-    "screenshots": ["apps/twdc/twdc_screenshot1.jpg","apps/twdc/twdc_screenshot2.jpg","apps/twdc/twdc_screenshot3.jpg"]
+    "screenshots": ["apps/twdc/twdc_screenshot1.jpg","apps/twdc/twdc_screenshot3.jpg"]
   },
   {
     "name": "Imperial Search",
