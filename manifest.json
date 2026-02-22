@@ -8,15 +8,23 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3176/3176218.png",
+      "src": "./assets/app_icon_192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3176/3176218.png",
+      "src": "./assets/app_icon_512.png",
       "sizes": "512x512",
-      "type": "image/png"
-    }
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/app_icon_512_maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
   ]
 }
 
