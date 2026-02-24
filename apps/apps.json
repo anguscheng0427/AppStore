@@ -24,6 +24,12 @@
     "screenshots": ["apps/twdc/twdc_screenshot1.jpg","apps/twdc/twdc_screenshot3.jpg"]
   },
   {
+    "name": "Lab Rotation",
+    "description": "CSMB Lab Meeting Rotation",
+    "url": "../LabRotation/",
+    "icon": "../LabRotation/assets/CSBM_icon_512.png"
+  },
+  {
     "name": "Imperial Search",
     "description": "大明帝國 搜尋入口",
     "url": "../president/search",
