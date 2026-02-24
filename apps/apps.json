@@ -25,7 +25,7 @@
   },
   {
     "name": "Lab Rotation",
-    "description": "CSMB Lab Meeting Rotation",
+    "description": "For CSMB Lab Only",
     "url": "../LabRotation/",
     "icon": "../LabRotation/assets/CSBM_icon_512.png"
   },
